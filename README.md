@@ -18,6 +18,7 @@ A fully functional Tic Tac Toe game built with **React** and **Vite**.
 - 🎨 CSS
 
 ## 📁 Project Structure
+
 src/
 ├── components/
 │   ├── Board.jsx          → 3x3 game grid
